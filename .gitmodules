@@ -1,0 +1,3 @@
+[submodule "refs/autoagents"]
+	path = refs/autoagents
+	url = git@github.com:randomm/AutoAgents.git
